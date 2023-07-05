@@ -1,4 +1,5 @@
-[
+{
+  "games": [
     {
       "name": "Basketball",
       "img": "game1.svg",
@@ -51,3 +52,4 @@
       "url": "#darts"
     }
   ]
+}
