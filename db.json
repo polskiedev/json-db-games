@@ -2,7 +2,7 @@
   "games": [
     {
       "name": "Basketball",
-      "img": "game1.svg",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [
         "Popular"
       ],
@@ -10,13 +10,13 @@
     },
     {
       "name": "Table Tennis",
-      "img": "game2.svg",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [],
       "url": "#table-tennis"
     },
     {
       "name": "Soccer",
-      "img": "game3.jpeg",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [
         "Popular"
       ],
@@ -24,13 +24,13 @@
     },
     {
       "name": "Marathon",
-      "img": "game4.png",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [],
       "url": "#marathon"
     },
     {
       "name": "Sepak Takraw",
-      "img": "game5.svg",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [
         "New"
       ],
@@ -38,13 +38,13 @@
     },
     {
       "name": "Billiards",
-      "img": "game6.png",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [],
       "url": "#billiards"
     },
     {
       "name": "Darts",
-      "img": "game7.png",
+      "img": "https://dummyimage.com/150x150/000/fff",
       "badge": [
         "New",
         "Popular"
